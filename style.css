@@ -1,0 +1,47 @@
+body{
+  background-color:orange;
+}
+
+h1 {
+  color: white;
+  font-size: 45px;
+  font-family: Arial, sans-serif;
+}
+
+img{
+  width: 50%;
+}
+
+p, li {
+  color:white;
+  font-family: Arial, sans-serif;
+  
+}
+
+
+.header {
+  background-color: black;
+  padding-left:10px;
+  border: 1px solid black;
+}
+
+.footer{
+  background-color: black;
+  color: white;
+  padding-left: 10px;
+  border: 1px solid black;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+}
